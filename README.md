@@ -75,13 +75,13 @@ Through this project, I practised:
 
 ## 👩‍💻 Author
 
-**Veekshitha Nayak**
+Veekshitha Nayak
 
 MCA Student | Aspiring Full-Stack Developer
 
 ## 📄 Project Details
 
-- **Project Name:** Student Portfolio Website
-- **Project Number:** Full Stack Development – Project 1
-- **Project Type:**  Portfolio Website
-- **Purpose:** Learning and practising web development skills
+- Project Name: Student Portfolio Website
+- Project Number: Full Stack Development – Project 1
+- Project Type:  Portfolio Website
+- Purpose: Learning and practising web development skills
